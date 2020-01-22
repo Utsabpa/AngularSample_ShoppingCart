@@ -1,0 +1,91 @@
+[{
+    "productid": 1,
+    "productname": "16lb bag of Skittles",
+    "productdesc": "16lb bag of Skittles",
+    "price": 16,
+    "isimported": false,
+    "istaxexcemption": true,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 2,
+    "productname": "Walkman",
+    "productdesc": "Walkman",
+    "price": 99.99,
+    "isimported": false,
+    "istaxexcemption": false,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 3,
+    "productname": "bag of microwave Popcorn",
+    "productdesc": "bag of microwave Popcorn",
+    "price": 0.99,
+    "isimported": false,
+    "istaxexcemption": true,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 4,
+    "productname": "imported bag of Vanilla-Hazelnut Coffee",
+    "productdesc": "imported bag of Vanilla-Hazelnut Coffee",
+    "price": 11.00,
+    "isimported": true,
+    "istaxexcemption": true,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 5,
+    "productname": "Imported Vespa",
+    "productdesc": "Imported Vespa",
+    "price": 15001.25,
+    "isimported": true,
+    "istaxexcemption": false,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 6,
+    "productname": "imported crate of Almond Snickers",
+    "productdesc": "imported crate of Almond Snickers",
+    "price": 75.99,
+    "isimported": true,
+    "istaxexcemption": true,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 7,
+    "productname": "Discman",
+    "productdesc": "Discman ",
+    "price": 55.00,
+    "isimported": false,
+    "istaxexcemption": false,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 8,
+    "productname": "Imported Bottle of Wine",
+    "productdesc": "Imported Bottle of Wine",
+    "price": 10.00,
+    "isimported": true,
+    "istaxexcemption": false,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }, {
+    "productid": 9,
+    "productname": "300# bag of Fair-Trade Coffee",
+    "productdesc": "300# bag of Fair-Trade Coffee",
+    "price": 997.99,
+    "isimported": false,
+    "istaxexcemption": true,
+    "noofitems": 0,
+    "importduty": 0,
+    "salestax": 0
+  }]
